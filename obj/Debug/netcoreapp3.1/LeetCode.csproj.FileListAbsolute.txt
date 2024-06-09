@@ -1,0 +1,13 @@
+/Users/gareth/code/private/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.deps.json
+/Users/gareth/code/private/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.runtimeconfig.json
+/Users/gareth/code/private/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.runtimeconfig.dev.json
+/Users/gareth/code/private/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.dll
+/Users/gareth/code/private/LeetCode/bin/Debug/netcoreapp3.1/LeetCode.pdb
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.AssemblyInfoInputs.cache
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.AssemblyInfo.cs
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.csproj.CoreCompileInputs.cache
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.dll
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.pdb
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.genruntimeconfig.cache
+/Users/gareth/code/private/LeetCode/bin/Debug/netcoreapp3.1/LeetCode
+/Users/gareth/code/private/LeetCode/obj/Debug/netcoreapp3.1/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
