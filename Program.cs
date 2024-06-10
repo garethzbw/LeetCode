@@ -14,7 +14,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var solution = Activator.CreateInstance<HOT100_238.Solution>();
+            var solution = Activator.CreateInstance<HOT100_5.Solution>();
             // var node3 = new ListNode(5, null);
             // var node2 = new ListNode(4, node3);
             // var node1 = new ListNode(1, node2);
@@ -28,14 +28,7 @@ namespace LeetCode
             
             // Display(solution.Permute(new int[] {2,3,6,7}));
             // Display(solution.Permute(new int[] {2,3,5}));
-            // Display(solution.Permute(new int[] {2}));
-            var lru = new LRUCache(2);
-            lru.Put(1, 1);
-            lru.Put(2, 2);
-            Display(lru.Get(1));
-            lru.Put(3, 3);
-            Display(lru.Get(3));
-            Display(lru.Get(2));
+            Display(solution.LongestPalindrome("ccbbccc"));
         }
 
         static void Display<T>(IList<T> l)
